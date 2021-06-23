@@ -14,6 +14,7 @@
 		E49D85882677F12E009763B2 /* ToDoApp.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = E49D85862677F12E009763B2 /* ToDoApp.xcdatamodeld */; };
 		E49D858A2677F133009763B2 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = E49D85892677F133009763B2 /* Assets.xcassets */; };
 		E49D858D2677F133009763B2 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = E49D858B2677F133009763B2 /* LaunchScreen.storyboard */; };
+		E4BFF10A267E1C190013C722 /* DetailViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = E4BFF109267E1C190013C722 /* DetailViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +27,7 @@
 		E49D85892677F133009763B2 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		E49D858C2677F133009763B2 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		E49D858E2677F133009763B2 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		E4BFF109267E1C190013C722 /* DetailViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DetailViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -66,6 +68,7 @@
 				E49D858B2677F133009763B2 /* LaunchScreen.storyboard */,
 				E49D858E2677F133009763B2 /* Info.plist */,
 				E49D85862677F12E009763B2 /* ToDoApp.xcdatamodeld */,
+				E4BFF109267E1C190013C722 /* DetailViewController.swift */,
 			);
 			path = ToDoApp;
 			sourceTree = "<group>";
@@ -142,6 +145,7 @@
 			files = (
 				E49D85822677F12E009763B2 /* ViewController.swift in Sources */,
 				E49D857E2677F12E009763B2 /* AppDelegate.swift in Sources */,
+				E4BFF10A267E1C190013C722 /* DetailViewController.swift in Sources */,
 				E49D85802677F12E009763B2 /* SceneDelegate.swift in Sources */,
 				E49D85882677F12E009763B2 /* ToDoApp.xcdatamodeld in Sources */,
 			);
